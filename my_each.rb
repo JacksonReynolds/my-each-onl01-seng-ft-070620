@@ -7,8 +7,8 @@ def my_each(array)
   array
 end #my_each
 
-arr = [1,2,3,4,5,6,7]
-
-my_each(arr) do |i|
-  puts i
-end #do
+# arr = [1,2,3,4,5,6,7]
+#
+# my_each(arr) do |i|
+#   puts i
+# end #do
